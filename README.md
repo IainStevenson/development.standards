@@ -1,6 +1,6 @@
 # Development standards
 
-The following standards are a summary of many years of experience in software development gained in small medium and large development teams by other developers as well as myself.
+The following standards/guindance are a summary of many years of experience in software development gained in small medium and large development teams and are a compendium of contributions from many excellent developers who have influenced my current perception of best practice.
 
 Development, in any language or framework combination, will be working on feature, bug or issue or task `ticket's`, usually recorded with Gherkin like statements in an `issue management system` such as `Jira`.
 
